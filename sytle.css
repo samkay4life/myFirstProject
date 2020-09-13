@@ -154,7 +154,7 @@ a{
  /* end of header*/
  /*hero sector*/
  #hero{
-        background-image: url(../image/newth.jpeg);
+        background-image: url(./image/newth.jpeg);
         background-size: cover;
         background-position:top center ;
         position: relative;
